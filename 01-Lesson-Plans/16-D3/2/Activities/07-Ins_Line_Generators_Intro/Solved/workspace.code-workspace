@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../15-Interactive-Visualizations-and-Dashboards"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "16-D3"
+	}
+}
